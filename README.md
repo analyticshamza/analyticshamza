@@ -6,3 +6,4 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I left customer service to fully dive into the world of data—starting from spreadsheets to databases!
 
+![Image](https://github.com/user-attachments/assets/b3e16811-d1c3-45a2-a2dd-4ae2417ca01c)
