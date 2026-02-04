@@ -22,29 +22,6 @@
     </filter>
   </defs>
   
-  <!-- Background (semi-transparent white for contrast on videos) -->
-  <rect x="5" y="5" width="290" height="110" rx="15" fill="#FFFFFF" opacity="0.85"/>
-  <rect x="5" y="5" width="290" height="110" rx="15" fill="none" stroke="#1E3A8A" stroke-width="1.5" opacity="0.3"/>
-  
-  <!-- Compact bar chart icon -->
-  <g transform="translate(45, 42)" filter="url(#softShadow)">
-    <rect x="0" y="20" width="12" height="22" rx="2" fill="#3B82F6"/>
-    <rect x="16" y="10" width="12" height="32" rx="2" fill="#1E3A8A"/>
-    <rect x="32" y="0" width="12" height="42" rx="2" fill="#3B82F6"/>
     
-    <!-- Arrow -->
-    <path d="M 48 2 L 52 -2 L 56 2" fill="none" stroke="#1E3A8A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="52" y1="-2" x2="52" y2="15" stroke="#1E3A8A" stroke-width="1.8" stroke-linecap="round"/>
-  </g>
   
-  <!-- Text layout (horizontal) -->
-  <g transform="translate(110, 0)">
-    <text x="0" y="50" font-family="'Montserrat', 'Poppins', sans-serif" font-size="28" font-weight="700" fill="#1E3A8A" letter-spacing="1.5">
-      ANALYTICS
-    </text>
-    <text x="0" y="75" font-family="'Montserrat', 'Poppins', sans-serif" font-size="16" font-weight="400" fill="#6B7280" letter-spacing="0.5">
-      with Hamza
-    </text>
-  </g>
-</svg>
-
+ 
